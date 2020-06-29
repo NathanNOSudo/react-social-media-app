@@ -39,10 +39,10 @@ export default function Home(){
             Home Page
           </Typography>
           <CardMedia className={classes.media} image={unicornbikeImg} title="Unicorn Bicycle"/>
-          <Typography variant="body2" component="p" className={classes.credit} color="textSecondary">Photo by Not A Troll on TrollSplash</Typography>
+          <Typography variant="body2" component="p" className={classes.credit} color="textSecondary">Photo by <a href="" target="_blank" rel="noopener noreferrer">Not A Troll</a> on TrollSplash</Typography>
           <CardContent>
             <Typography variant="body1" component="p">
-              Welcome to the skeleton of my MERN socializing distantly app.
+              Welcome to the MERN Skeleton home page.
             </Typography>
           </CardContent>
         </Card>

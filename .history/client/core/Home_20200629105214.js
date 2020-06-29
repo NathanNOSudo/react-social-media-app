@@ -42,7 +42,7 @@ export default function Home(){
           <Typography variant="body2" component="p" className={classes.credit} color="textSecondary">Photo by Not A Troll on TrollSplash</Typography>
           <CardContent>
             <Typography variant="body1" component="p">
-              Welcome to the skeleton of my MERN socializing distantly app.
+              Welcome to the MERN Skeleton home page.
             </Typography>
           </CardContent>
         </Card>
